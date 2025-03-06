@@ -1,3 +1,11 @@
+numpy
+pandas
 transformers
 datasets
 accelerate
+openai
+langchain
+langchain-openai
+langchain-anthropic
+langchain-community
+pydantic
